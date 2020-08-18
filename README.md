@@ -17,3 +17,7 @@
 
 - You need to have `python` installed and correctly linked
 - This can be as simple as `brew install python` but if that is not working for you, try the steps outline [here](https://stackoverflow.com/questions/46179672/python-bash-usr-local-bin-python-no-such-file-or-directory)
+
+## Windows
+
+- If you are trying this on Windows, follow the installation instructions [here](http://designwithfontforge.com/en-US/Installing_Fontforge.html)
